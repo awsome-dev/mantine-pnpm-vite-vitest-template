@@ -1,4 +1,4 @@
-# Mantine Vite template
+# Mantine pNpM Vite Vitest template
 
 ## Features
 
