@@ -12,7 +12,9 @@ This template comes with the following features:
 
 ## Install
 
-  pnpm i
+```
+pnpm i
+```
 
 ## npm scripts
 
